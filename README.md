@@ -54,7 +54,7 @@ web-src/
    ```  
 3. Open `index.html` in a web browser.  
 
-## 📸 Screenshots fof homepage 
+## 📸 Screenshots for homepage 
 <h3>desktop </h3>
 <img width="712" height="289" alt="image" src="https://github.com/user-attachments/assets/bc713bf7-135c-4dac-8b64-5d506d7fc29e" />
 <img width="709" height="210" alt="image" src="https://github.com/user-attachments/assets/ba12d52b-40b8-415a-88c1-7d8d122961ca" />
