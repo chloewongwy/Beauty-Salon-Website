@@ -68,7 +68,8 @@ web-src/
 <h3>mobile</h3>
 <img width="208" height="406" alt="image" src="https://github.com/user-attachments/assets/a5491714-8177-42bf-aae7-d931023471a3" />
 <br>
-<img width="226" height="345" alt="image" src="https://github.com/user-attachments/assets/31027527-5527-4ae2-b1af-745d00b7ec1f" />
+<img width="205" height="314" alt="image" src="https://github.com/user-attachments/assets/7d2fbcd5-cbb9-4d8b-91b1-c3948ffe0585" />
+
 
 ## 📚 References  
 - [Beauty Code – Covid-19 Policy](https://beautycodesalon.co.uk/covid-19/)  
