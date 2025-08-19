@@ -62,10 +62,12 @@ web-src/
 
 <h3>tablet</h3>
 <img width="294" height="367" alt="image" src="https://github.com/user-attachments/assets/70c30f1d-04a1-4e88-b97b-da75ab7701e9" />
+<br>
 <img width="292" height="221" alt="image" src="https://github.com/user-attachments/assets/9d9423ee-d0f9-4e8e-8783-4f7a177d723d" />
 
 <h3>mobile</h3>
 <img width="208" height="406" alt="image" src="https://github.com/user-attachments/assets/a5491714-8177-42bf-aae7-d931023471a3" />
+<br>
 <img width="226" height="345" alt="image" src="https://github.com/user-attachments/assets/31027527-5527-4ae2-b1af-745d00b7ec1f" />
 
 ## 📚 References  
