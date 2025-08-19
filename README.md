@@ -1,4 +1,4 @@
-<img width="709" height="210" alt="image" src="https://github.com/user-attachments/assets/f70298d8-944d-414d-ae81-ea9fdf4263b7" /># Beauty-Salon-Website
+# Beauty-Salon-Website
 A responsive website prototype for a beauty salon. Project Year: 2023 <br>
 The site demonstrates key principles of **HCI, responsive web design, and usability**, ensuring accessibility across **desktop, tablet, and mobile devices**.  
 
