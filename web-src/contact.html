@@ -1,0 +1,122 @@
+<!doctype html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
+	<title>contact</title>
+	<!--CSS-->
+	<link rel="stylesheet" href="design_Contact.css">
+	<!-- Navigation bar -->
+	<link rel="stylesheet" href="design_Navigation.css">
+	<!-- Navigation logo -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+	<!-- Top Bar Start -->
+	<div class="top-bar d-none d-md-block">
+		<div class="container-fluid">
+			<div class="top-bar-left">
+				<div class="text">
+					<h2>08:00 - 21:00</h2>
+					<p>Mon - Sun</p>
+				</div>
+			<div class="text">
+				<h2>+123 456 7890</h2>
+				<p>For Appointment</p>
+			</div>
+			</div>
+		</div>
+	</div>
+	
+	<!--Navigation bar-->
+	<div class="header" id="myHeader">
+		<a href="#default" class="logo">HK<font color="#FF69B4">Beauty</font></a>
+		<div class="header-right">
+			<a href="index.html">Home</a>
+			<a href="covid.html">Covid-19</a>
+			<a href="service.html">Service</a>
+			<a class="active" href="contact.html">Contact</a>
+			<a href="javascript:void(0);" class="icon" onclick="myFunction()">
+				<i class="fa fa-bars"></i>
+			</a>
+		 </div>
+	</div>
+	
+	<!-- Contact image for intro -->
+	<div class="hero-image">
+  		<div class="hero-text">
+    		<h1 style="font-size:50px; color:#FFFFFF;">Contact</h1>
+		</div>
+	</div>
+	
+	<!--information of HKBeauty -->
+	<div class="col-s-12 col-12 informationContainer">
+		<img class="imgCenter" src="image/logo_email.png" alt="email logo" width="60px">
+		<h2 align="center">Email</h2>
+		<p align="center">hkbeauty@gmail.com</p>
+	</div>
+	
+	<!-- form -->
+	<div class="container">
+		<p>(Questions with <span class="required-field"></span> must be filled in)</p>
+		<form name="contact" method="post" action="mailto:hkbeauty@gmail.com">
+	  		<div class="row">
+				<div class="col-s-12 col-3">
+		  			<span class="required-field"></span><label for="name">Name</label>
+				</div>
+				<div class="col-s-12 col-9">
+		  			<input type="text" id="name" name="name" placeholder="e.g. Chan Tai Man" required>
+				</div>
+	  		</div>
+	  		<div class="row">
+				<div class="col-s-12 col-3">
+		  			<span class="required-field"></span><label for="email">Email</label>
+				</div>
+				<div class="col-s-12 col-9">
+		  			<input type="text" id="email" name="email" placeholder="e.g. chantaiman@gmail.com" required>
+				</div>
+	  		</div>
+	  		<div class="row">
+				<div class="col-s-12 col-3">
+					<span class="required-field"></span><label for="country">Service</label>
+				</div>
+				<div class="col-s-12 col-9">
+					<select id="service" name="service" required multiple>
+						<option value="hair serivce">hair serivce</option>
+						<option value="beauty treatments">beauty treatments</option>
+						<option value="body treatments">body treatments</option>
+						<option value="advanced treatments">advanced treatments</option>
+						<option value="eye treatments">eye treatments</option>
+						<option value="nails">nails</option>
+						<option value="waxing">waxing</option>
+						<option value="facial treatments">facial treatments</option>
+					</select>
+				</div>
+	  		</div>
+	  		<div class="row">
+				<div class="col-s-12 col-3">
+					<span class="required-field"></span><label for="subject">Message</label>
+				</div>
+				<div class="col-s-12 col-9">
+				  	<textarea id="message" name="message" placeholder="Please write down your inquiries or suggestions" style="height:200px" required></textarea>
+				</div>
+	  		</div>
+	  		<br>
+	  		<div class="row">
+				<input type ="reset" value="Clear">
+				<input type="submit" value="Submit">
+			</div>
+	    </form>
+	</div>
+	
+	<!--Footer-->
+	<footer>
+		© 2023 HKBeauty · All rights reserved <br>
+	</footer>
+	
+	<!--Javascript File for navigation-->
+    <script src="layout.js"></script>
+	
+</body>
+</html>

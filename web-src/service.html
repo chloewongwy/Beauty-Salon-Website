@@ -1,0 +1,114 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Service</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<!--CSS-->
+	<link rel="stylesheet" href="design_Service.css">
+	<!-- Navigation bar -->
+	<link rel="stylesheet" href="design_Navigation.css">
+	<!-- Navigation logo -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<!-- Scroll horizontally -->
+	<script src="https://kit.fontawesome.com/a59b9b09ab.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+	<!-- Top Bar Start -->
+	<div class="top-bar d-none d-md-block">
+		<div class="container-fluid">
+			<div class="top-bar-left">
+				<div class="text">
+					<h2>08:00 - 21:00</h2>
+					<p>Mon - Sun</p>
+				</div>
+			<div class="text">
+				<h2>+123 456 7890</h2>
+				<p>For Appointment</p>
+			</div>
+			</div>
+		</div>
+	</div>
+	
+	<!--Navigation bar-->
+	<div class="header" id="myHeader">
+		<a href="#default" class="logo">HK<font color="#FF69B4">Beauty</font></a>
+		<div class="header-right">
+			<a href="index.html">Home</a>
+			<a href="covid.html">Covid-19</a>
+			<a class="active" href="service.html">Service</a>
+			<a href="contact.html">Contact</a>
+			<a href="javascript:void(0);" class="icon" onclick="myFunction()">
+				<i class="fa fa-bars"></i>
+			</a>
+		 </div>
+	</div>
+	
+	<!-- Service image for intro -->
+	<div class="hero-image">
+  		<div class="hero-text">
+    		<h1 style="font-size:50px; color:#FFFFFF;">Service</h1>
+		</div>
+	</div>
+	
+	<!-- Serivce image (Grid)-->
+	<div class="imageContainer">
+		<div class="row"> 
+			<div class="column">
+				<img src="image/service1.jpg" style="width:100%" alt="hair serivce">
+				<img src="image/service2.png" style="width:100%" alt="beauty treatments">
+			</div>
+			<div class="column">
+				<img src="image/service3.png" style="width:100%" alt="body treatments">
+				<img src="image/service4.png" style="width:100%" alt="advanced treatments">
+			</div>
+			<div class="column">
+				<img src="image/service5.png" style="width:100%" alt="eye treatments">
+				<img src="image/service6.png" style="width:100%" alt="nails">
+			</div>
+			<div class="column">
+				<img src="image/service7.png" style="width:100%" alt="waxing">
+				<img src="image/service8.png" style="width:100%" alt="facial treatments">
+			</div>
+		</div>
+	</div>
+	
+	<!--Cooperation brand -->
+	<div class="col-s-12 col-12 brandContainer">
+		<h1 class="brand" align="center">Cooperation brand</h1>
+	</div>
+	
+	<div class="col-s-12 col-12 main-scroll-div">
+    	<div>
+            <button class="icon" onclick="scrolll()"> <i class="fas fa-angle-double-left"></i></button>
+        </div>
+        <div class="cover">
+            <div class="scroll-images">
+                <div class="child"><img class="child-img" src="image/brand1.png" alt="image"></div>
+                <div class="child"><img class="child-img" src="image/brand2.png" alt="image"></div>
+                <div class="child"><img class="child-img" src="image/brand3.png" alt="image"></div>
+				<div class="child"><img class="child-img" src="image/brand4.png" alt="image"></div>
+				<div class="child"><img class="child-img" src="image/brand5.png" alt="image"></div>
+				<div class="child"><img class="child-img" src="image/brand6.png" alt="image"></div>
+				<div class="child"><img class="child-img" src="image/brand7.png" alt="image"></div>
+				<div class="child"><img class="child-img" src="image/brand8.jpg" alt="image"></div>
+            </div>
+        </div>
+        <div>
+            <button class="icon" onclick="scrollr()"> <i class="fas fa-angle-double-right"></i></button>
+        </div>
+    </div>
+	
+	<!--Footer-->
+	<footer>
+		© 2023 HKBeauty · All rights reserved <br>
+	</footer>
+	
+	<!--Javascript File for navigation-->
+    <script src="layout.js"></script>
+	<script src="serviceScrollBrand.js"></script>
+</body>
+</html>
