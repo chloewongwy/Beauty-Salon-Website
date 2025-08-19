@@ -54,17 +54,17 @@ web-src/
    ```  
 3. Open `index.html` in a web browser.  
 
-## 📸 Screenshots  
-<h2>desktop </h2>
+## 📸 Screenshots fof homepage 
+<h3>desktop </h3>
 <img width="712" height="289" alt="image" src="https://github.com/user-attachments/assets/bc713bf7-135c-4dac-8b64-5d506d7fc29e" />
 <img width="709" height="210" alt="image" src="https://github.com/user-attachments/assets/ba12d52b-40b8-415a-88c1-7d8d122961ca" />
 <img width="713" height="321" alt="image" src="https://github.com/user-attachments/assets/2f27effd-bd51-495e-a81b-d71090ae4626" />
 
-<h2>tablet</h2>
+<h3>tablet</h3>
 <img width="294" height="367" alt="image" src="https://github.com/user-attachments/assets/70c30f1d-04a1-4e88-b97b-da75ab7701e9" />
 <img width="292" height="221" alt="image" src="https://github.com/user-attachments/assets/9d9423ee-d0f9-4e8e-8783-4f7a177d723d" />
 
-<h2>mobile</h2>
+<h3>mobile</h3>
 <img width="208" height="406" alt="image" src="https://github.com/user-attachments/assets/a5491714-8177-42bf-aae7-d931023471a3" />
 <img width="226" height="345" alt="image" src="https://github.com/user-attachments/assets/31027527-5527-4ae2-b1af-745d00b7ec1f" />
 
