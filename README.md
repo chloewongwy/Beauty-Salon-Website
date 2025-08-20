@@ -1,6 +1,11 @@
 # Beauty-Salon-Website
-A responsive website prototype for a beauty salon. Project Year: 2023 <br>
+A responsive website prototype for a beauty salon. <br>
 The site demonstrates key principles of **HCI, responsive web design, and usability**, ensuring accessibility across **desktop, tablet, and mobile devices**.  
+
+## 📅 Project Info  
+- Developed: March 2023  
+- Note: This project was completed without the use of AI tools.
+
 
 ## 📂 Project Structure  
 All source code is in the `web-src` folder:  
@@ -46,7 +51,7 @@ web-src/
 ## 🚀 Getting Started  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/Beauty-Salon-Website.git
+   git clone https://github.com/chloewongwy/Beauty-Salon-Website.git
    ```  
 2. Navigate into the project:  
    ```bash
